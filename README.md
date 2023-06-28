@@ -1,5 +1,5 @@
 # alt-alert-twitter-bot
-This is a Twitter bot that tweets accessibility tips. This code builds on and borrows from code originally created by Matt Eason to retweet accounts that did not add alt text.
+This is a Twitter bot that tweets accessibility tips. This code builds on and borrows from code originally created by Matt Eason to retweet accounts that did not add alt text. This README includes Matt's original steps, modified by me.
 
 # Getting started
 
